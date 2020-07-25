@@ -18,8 +18,10 @@
 
 ### 编程语言
 
- - [Python](https://github.com/TwoWater/Python)
- - [Python标准库](https://docs.python.org/zh-cn/3/library/index.html)
+ - **Python**
+	 -  [Python标准库](https://docs.python.org/zh-cn/3/library/index.html)
+	 -  [Scrapy框架](https://s0docs0scrapy0org.icopy.site/en/latest/intro/overview.html)
+
 
 ### 前端
 
